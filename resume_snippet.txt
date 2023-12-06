@@ -1,0 +1,27 @@
+Project: Bird Hunt Game (GitHub Link)
+
+    -Developed a bird hunting game using SFML (Simple and Fast Multimedia Library) in C++.
+    -Implemented game elements including a player-controlled scope, moving birds, and a scoring system.
+    -Utilized object-oriented programming principles for modular code and efficient game design.
+    -Integrated background music, gunshot sound effects, and bird chirping to enhance the gaming experience.
+    -Implemented features like time countdown, score tracking, and game over conditions for a complete gameplay loop.
+    -Used randomization for bird movement patterns, adding variability to the game.
+    -Employed SFML's graphics and audio modules for rendering visuals and playing sounds.
+    -Demonstrated creativity in bird animation and shooting mechanics for an engaging user experience.
+    -Provided visual and auditory feedback to the player, enhancing immersion and gameplay enjoyment.
+    -technologies used:
+        C++
+        SFML (Simple and Fast Multimedia Library)
+        Object-Oriented Programming (OOP)
+        Audio and graphics handling with SFML
+        Randomization for dynamic bird movement
+        GitHub for version control
+
+GitHub Link: [Your GitHub Repository Link]
+
+
+shorter version:
+Project: Bird Hunt Game (GitHub Link)
+    -Developed a bird hunting game in C++ using SFML library and concepts of OOPs.
+    -Features include a player-controlled scope, moving birds with realistic trajectories, and scoring mechanics.
+    -Implemented time countdown, score tracking, and a game-over condition, providing an engaging gaming experience.
