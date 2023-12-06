@@ -1,51 +1,43 @@
 # Bird Hunt SFML
 
-A simple C++ game developed using object-oriented programming principles and SFML library. The game was developed and tested in a VirtualBox Ubuntu 20.04 environment with SFML version 2.5.1.
+A simple C++ game developed using object-oriented programming principles and the SFML library. The game was created and tested in a VirtualBox Ubuntu 20.04 environment with SFML version 2.5.1.
 
 ## Instructions:
 
 ### Prerequisites:
 
-- VirtualBox Ubuntu 20.04
-- SFML version 2.5.1
+- VirtualBox with Ubuntu 20.04
 
-### Steps to Run:
+### Getting Started:
 
-1. Clone the repository and navigate to the project directory.
+1. **Clone the Repository:**
 
-   ```bash
-   git clone <repository-url>
-   cd bird-hunt-sfml
+    ```bash
+    git clone https://github.com/avalon22022002/bird-hunt-sfml
+    cd bird-hunt-sfml
+    ```
 
-    Update package information and install SFML library.
+2. **Install SFML Library:**
 
-    bash
+    ```bash
+    sudo apt-get update
+    sudo apt-get install libsfml-dev
+    ```
 
-sudo apt-get update
-sudo apt-get install libsfml-dev
+3. **Verify SFML Version:**
 
-Verify SFML version.
+    ```bash
+    pkg-config --modversion sfml-all
+    ```
+    sfml version used while creating this project == 2.5.1 if u receive any errors ahead try installing this specific version..
 
-bash
+4. **Compile and Run the Game:**
 
-pkg-config --modversion sfml-all
-
-Compile and run the game.
-
-bash
-
+    ```bash
     g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
     ./a.out
+    ```
 
-Enjoy playing the Bird Hunt game!
+### Enjoy playing the Bird Hunt game!
 
-Replace <repository-url> with the actual URL of your git repository.
-
-csharp
-
-
-Copy and paste this content into a markdown file (e.g., `README.md`) in y
-
-
-
-
+Feel free to customize the content further to suit your preferences.
