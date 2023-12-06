@@ -1,6 +1,6 @@
 # Bird Hunt SFML
 
-A simple C++ game developed using object-oriented programming principles and the SFML library. The game was created and tested in a VirtualBox Ubuntu 20.04 environment with SFML version 2.5.1.
+A simple C++ game developed using object-oriented programming principles and the SFML library. The game was created and tested in a VirtualBox Ubuntu 20.04 environment with SFML version 2.5.1.<br/>
 demo-https://youtu.be/mvnkNuuuDnc
 ## Instructions:
 
